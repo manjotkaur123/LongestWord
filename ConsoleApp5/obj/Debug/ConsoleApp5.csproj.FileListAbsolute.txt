@@ -1,0 +1,6 @@
+U:\Users\731846\assignment5\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+U:\Users\731846\assignment5\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+U:\Users\731846\assignment5\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+U:\Users\731846\assignment5\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+U:\Users\731846\assignment5\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+U:\Users\731846\assignment5\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
